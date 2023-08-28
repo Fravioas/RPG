@@ -1,44 +1,47 @@
 # GDD
+# Fravio
+ # Bem-vindo ao GDD! 👋
 
-1. Conceito do Jogo:
+# 1. Conceito do Jogo:
 
 Visão Geral: RPG de ação em terceira pessoa com manipulação temporal em um mundo interconectado de eras.
 
 
-2. Mecânicas do Jogo:
+# 2. Mecânicas do Jogo:
 
-Manipulação Temporal:
+    # Manipulação Temporal:
+  
+      Aceleração, desaceleração, pausa e retrocesso do tempo.
+      Tempo é um recurso limitado com recarga.
+      Habilidades temporais consomem energia cronômica.
+      Exploração de Eras:
+      
+      Uso de portais cronômicos para viagens entre épocas.
+      Cada era possui elementos únicos e ambientes diversos.
+      Descobertas em eras passadas afetam o presente.
+      Combate Tático:
+      
+      Inimigos também usam habilidades temporais.
+      Previsão de movimentos inimigos.
+      Utilização estratégica das habilidades cronômicas.
+      Narrativa Ramificada:
+      
+      Diálogos com múltiplas opções e respostas.
+      Escolhas impactam o relacionamento com NPCs e o enredo.
+      Finais variados baseados nas escolhas dos jogadores.
+      Construção de Personagem:
+      
+      Árvore de habilidades com ramificações.
+      Escolha de arquétipos (ex.: Ofensivo, Defensivo, Suporte).
+      Aquisição de habilidades para desvendar mistérios.
+      Quebra-Cabeças Temporais:
+      
+      Integração das mecânicas temporais em quebra-cabeças.
+      Solução de enigmas que exigem manipulação do tempo.
+      
+# 3. Arte e Áudio:
 
-Aceleração, desaceleração, pausa e retrocesso do tempo.
-Tempo é um recurso limitado com recarga.
-Habilidades temporais consomem energia cronômica.
-Exploração de Eras:
-
-Uso de portais cronômicos para viagens entre épocas.
-Cada era possui elementos únicos e ambientes diversos.
-Descobertas em eras passadas afetam o presente.
-Combate Tático:
-
-Inimigos também usam habilidades temporais.
-Previsão de movimentos inimigos.
-Utilização estratégica das habilidades cronômicas.
-Narrativa Ramificada:
-
-Diálogos com múltiplas opções e respostas.
-Escolhas impactam o relacionamento com NPCs e o enredo.
-Finais variados baseados nas escolhas dos jogadores.
-Construção de Personagem:
-
-Árvore de habilidades com ramificações.
-Escolha de arquétipos (ex.: Ofensivo, Defensivo, Suporte).
-Aquisição de habilidades para desvendar mistérios.
-Quebra-Cabeças Temporais:
-
-Integração das mecânicas temporais em quebra-cabeças.
-Solução de enigmas que exigem manipulação do tempo.
-3. Arte e Áudio:
-
-Estilo Visual:
+# Estilo Visual:
 
 Ambientes detalhados com elementos de diferentes épocas.
 Personagens estilizados com características da época correspondente.
